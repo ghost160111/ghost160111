@@ -21,3 +21,24 @@ I'm a frontend developer who loves building tools and solving real-world problem
 - jQuery
 - Git
 - Vite
+
+### Projects that I've done
+
+## Green Tashkent
+
+It is platform for inventorization of trees across Tashkent city of Uzbekistan, it has two projects, for regular users and for moderators to track statistics.
+
+[Link to website](https://green.tashkent.uz)
+
+## ZRAS
+
+It is single page website developed for ZRAS Business Center.
+
+[Link to website](https://zras.uz/)
+
+## Face Code
+
+It is landing page developed for beauty salon "Face Code".
+
+[Link to website](https://face-code-client.vercel.app/)
+
