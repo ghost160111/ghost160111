@@ -32,7 +32,7 @@ It is platform for inventorization of trees across Tashkent city of Uzbekistan, 
 
 # Devcybercode
 
-It is platform for showcasing and adverticing "Website Development" service for users.
+It is platform for showcasing and adverticing "Website Development" service.
 
 # ZRAS
 
