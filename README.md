@@ -29,7 +29,6 @@ I'm a frontend developer who loves building tools and solving real-world problem
 It is platform for inventorization of trees across Tashkent city of Uzbekistan, it has two projects, for regular users and for moderators to track statistics.
 
 - [Link to website](https://green.tashkent.uz/)
-- [Link to website moderator](https://green-tashkent-moderator.vercel.app/)
 
 ## DevCyberCode
 
