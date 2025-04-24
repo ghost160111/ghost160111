@@ -28,7 +28,11 @@ I'm a frontend developer who loves building tools and solving real-world problem
 
 It is platform for inventorization of trees across Tashkent city of Uzbekistan, it has two projects, for regular users and for moderators to track statistics.
 
-[Link to website](https://green.tashkent.uz)
+[Link to website](https://green.tashkent.uz/)
+
+## Devcybercode
+
+It is platform for showcasing and adverticing "Website Development" service for users.
 
 ## ZRAS
 
@@ -41,4 +45,11 @@ It is single page website developed for ZRAS Business Center.
 It is landing page developed for beauty salon "Face Code".
 
 [Link to website](https://face-code-client.vercel.app/)
+
+## Mikond
+
+Single page website for Mikond business center who sells chandeliers.
+
+[Link to website](https://mikond.com/)
+
 
