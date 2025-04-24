@@ -31,7 +31,7 @@ It is platform for inventorization of trees across Tashkent city of Uzbekistan, 
 - [Link to website](https://green.tashkent.uz/)
 - [Link to website moderator](https://green-tashkent-moderator.vercel.app/)
 
-## Devcybercode
+## DevCyberCode
 
 It is platform for showcasing and adverticing "Website Development" service.
 
