@@ -35,24 +35,24 @@ It is platform for inventorization of trees across Tashkent city of Uzbekistan, 
 
 It is platform for showcasing and adverticing "Website Development" service.
 
-[Link to website](https://devcybercode.com/)
+- [Link to website](https://devcybercode.com/)
 
 # ZRAS
 
 It is single page website developed for ZRAS Business Center.
 
-[Link to website](https://zras.uz/)
+- [Link to website](https://zras.uz/)
 
 # Face Code
 
 It is landing page developed for beauty salon "Face Code".
 
-[Link to website](https://face-code-client.vercel.app/)
+- [Link to website](https://face-code-client.vercel.app/)
 
 # Mikond
 
 Single page website for Mikond business center who sells chandeliers.
 
-[Link to website](https://devcybercode.com/project/detail/2)
+- [Link to website](https://devcybercode.com/project/detail/2)
 
 
