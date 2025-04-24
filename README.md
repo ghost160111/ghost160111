@@ -50,6 +50,6 @@ It is landing page developed for beauty salon "Face Code".
 
 Single page website for Mikond business center who sells chandeliers.
 
-[Link to website](https://mikond.com/)
+[Link to website](https://devcybercode.com/project/detail/2)
 
 
