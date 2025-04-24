@@ -8,7 +8,7 @@ I'm a frontend developer who loves building tools and solving real-world problem
 
 📫 Reach me at [jaloliddinzukhriddinov@gmail.com](mailto:jaloliddinzukhriddinov@gmail.com)
 
-Here is the list of my skills:
+### List of skills
 
 - HTML5
 - CSS3
