@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**ghost160111/ghost160111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer who loves building tools and solving real-world problems.  
+🔭 I’m currently working at Digital Development Department MCHJ under Municipality of Tashkent city.
+🌱 I’m learning various technologies for solving problems effectively everyday.
+📫 Reach me at [jaloliddinzukhriddinov@gmail.com](mailto:jaloliddinzukhriddinov@gmail.com)
 
-Here are some ideas to get you started:
+Here is the list of my skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- SCSS
+- TypeScript
+- React (Class Components + Hooks + Context API)
+- Redux (Redux-toolkit)
+- Web Components
+- jQuery
+- Git
+- Vite
