@@ -17,6 +17,7 @@ I'm a frontend developer who loves building tools and solving real-world problem
 - TypeScript
 - React (Class Components + Hooks + Context API)
 - Redux (Redux-toolkit)
+- Zustand
 - Web Components
 - jQuery
 - Git
