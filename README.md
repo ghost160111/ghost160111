@@ -22,6 +22,7 @@ I'm a frontend developer who loves building tools and solving real-world problem
 - jQuery
 - Git
 - Vite
+- Vue
 
 ### List of projects:
 
