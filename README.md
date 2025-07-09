@@ -30,7 +30,7 @@ I'm a frontend developer who loves building tools and solving real-world problem
 
 ## Green Tashkent
 
-It is platform for inventorization of trees across Tashkent city of Uzbekistan, it has two projects, for regular users and for moderators to track statistics.
+It is platform for inventorization of trees across Tashkent city of Uzbekistan, it has two projects, for regular users and for moderators to track user forms, statistics, etc.
 
 - [Link to website](https://green.tashkent.uz/)
 
