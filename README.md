@@ -13,14 +13,10 @@ I'm a frontend developer who loves building tools and solving real-world problem
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,vue,react,redux,vite,vitest,npm,git)](https://github.com/ghost160111)
 
 - HTML5, CSS3, SCSS
-- JavaScript, TypeScript, jQuery
+- JavaScript, TypeScript, jQuery, Web Components
 - React (Class components + Hooks), Vue (Options API)
 - MobX, Redux-toolkit, Custom Event system, Signals, Context API
-- Web Components
-- Vite
-- Vitest
-- Npm
-- Git
+- Vite, Vitest, Npm, Git
 
 ### List of projects:
 
