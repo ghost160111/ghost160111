@@ -10,7 +10,7 @@ I'm a frontend developer who loves building tools and solving real-world problem
 
 ### List of skills
 
-- HTML5
+- HTML5 [![HTML5](https://skillicons.dev/icons?i=html)](https://github.com/ghost160111)
 - CSS3
 - SCSS
 - JavaScript
@@ -25,7 +25,7 @@ I'm a frontend developer who loves building tools and solving real-world problem
 - Npm
 - Git
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,vue,react,redux,vite,npm,git)](/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,vue,react,redux,vite,npm,git)](https://github.com/ghost160111)
 
 ### List of projects:
 
