@@ -17,13 +17,13 @@ I'm a frontend developer who loves building tools and solving real-world problem
 - TypeScript
 - jQuery
 - Vue
-- React (Class Components + Hooks + Context API)
-- Redux (Redux-toolkit)
-- MobX
-- Signals
-- Event Driven State Management System
+- React (Class Components + Hooks)
+- State management: MobX, Redux-toolkit, Custom Event system, Signals, Context API
 - Web Components
 - Vite
+- Vitest
+- Npm
+- Git
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,vue,react,redux,vite,npm,git)](https://skillicons.dev)
 
