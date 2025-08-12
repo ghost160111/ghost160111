@@ -12,19 +12,18 @@ I'm a frontend developer who loves building tools and solving real-world problem
 
 - HTML5
 - CSS3
-- JavaScript
 - SCSS
+- JavaScript
 - TypeScript
+- jQuery
+- Vue
 - React (Class Components + Hooks + Context API)
 - Redux (Redux-toolkit)
-- Zustand
+- MobX
 - Signals
 - Event Driven State Management System
 - Web Components
-- jQuery
-- Git
 - Vite
-- Vue
 
 ### List of projects:
 
