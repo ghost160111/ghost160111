@@ -8,7 +8,7 @@ I'm a frontend developer who loves building tools and solving real-world problem
 
 📫 Reach me at [jaloliddinzukhriddinov@gmail.com](mailto:jaloliddinzukhriddinov@gmail.com)
 
-### List of skills
+### Tech stack list:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,vue,react,redux,vite,vitest,npm,git)](https://github.com/ghost160111)
 
