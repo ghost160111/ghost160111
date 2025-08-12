@@ -25,7 +25,7 @@ I'm a frontend developer who loves building tools and solving real-world problem
 - Npm
 - Git
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,vue,react,redux,vite,npm,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,jquery,vue,react,redux,vite,npm,git)](/)
 
 ### List of projects:
 
