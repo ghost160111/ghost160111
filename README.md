@@ -25,6 +25,8 @@ I'm a frontend developer who loves building tools and solving real-world problem
 - Web Components
 - Vite
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ### List of projects:
 
 ## Green Tashkent
