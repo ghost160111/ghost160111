@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a frontend developer who loves building tools and solving real-world problems.  
+I'm a frontend developer who is passionate building tools and solving real-world problems.  
 
 🔭 I’m currently working at Digital Development Department MCHJ under Municipality of Tashkent city.
 
