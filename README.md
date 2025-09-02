@@ -12,10 +12,10 @@ I'm a frontend developer who is passionate building tools and solving real-world
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwindcss,jquery,js,ts,lit,vue,react,redux,vite,vitest,webpack,npm,git)](https://github.com/ghost160111)
 
-- HTML5, CSS3, SCSS
-- JavaScript, TypeScript, jQuery, Web Components
+- HTML5, CSS3, SCSS, Tailwind CSS
+- JavaScript, TypeScript, jQuery, Web Components, Lit
 - React (Class components + Hooks), Vue (Options API)
-- MobX, Redux-toolkit, Custom Event system, Signals, Context API
+- MobX, Redux-toolkit, Context API, Signals, Event driven state management
 - Vite, Vitest, Npm, Git
 
 ### List of projects:
