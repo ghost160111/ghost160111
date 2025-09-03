@@ -10,7 +10,7 @@ I'm a frontend developer who is passionate building tools and solving real-world
 
 ### Tech stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwindcss,js,ts,jquery,lit,vue,react,redux,i11n,vite,vitest,webpack)](https://github.com/ghost160111)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwindcss,js,ts,jquery,lit,vue,react,redux,i11n,vite,vitest,webpack,postman,sublime,vscode,vs)](https://github.com/ghost160111)
 
 - HTML5, CSS3, SCSS, Tailwind CSS
 - JavaScript, TypeScript, jQuery, Lit
