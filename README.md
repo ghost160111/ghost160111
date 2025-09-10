@@ -16,4 +16,5 @@ I'm a frontend developer who is passionate building tools and solving real-world
 - JavaScript, TypeScript, jQuery, Lit
 - React (Class components + Hooks), Vue (Options API)
 - MobX, Redux-toolkit, Context API, Signals, Event driven state management
+- Localization, i18next, custom localizations, accessibility
 - Vite, Vitest, Npm, Git
