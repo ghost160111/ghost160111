@@ -18,4 +18,5 @@ I'm a frontend developer who is passionate building tools and solving real-world
 - MobX, Redux-toolkit, Context API, Signals, Event driven state management
 - Localization, i18next, custom localizations, accessibility
 - Backend integration, Fetch API
+- Web app optimization techniques, lazy loading, image optimizations, css styles splitting
 - Vite, Vitest, Npm, Git
