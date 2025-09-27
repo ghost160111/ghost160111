@@ -19,5 +19,5 @@ I'm a frontend developer who is passionate building tools and solving real-world
 - Localization, i18next, custom localizations, accessibility
 - Backend integration, Fetch API
 - Web app optimization techniques, lazy loading, image optimizations, css styles splitting, Web Worker usage for heavy computational tasks
-- Service Worker usage for advanced caching of static files
+- Service Worker usage for advanced caching and access to web app offline
 - Vite, Vitest, Npm, Git
