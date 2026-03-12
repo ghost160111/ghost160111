@@ -29,3 +29,5 @@ I'm a frontend developer who is passionate building tools and solving real-world
 - Service Worker usage for advanced caching and access to web app offline
 - SEO Optimizations
 - Vite, Vitest, Npm, Git
+
+<figure><embed src="https://wakatime.com/share/@ghost160111/1ea10e84-e3cb-402a-9e90-da3f9726ff02.svg"></embed></figure>
