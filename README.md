@@ -15,7 +15,9 @@ I'm a frontend developer who is passionate building tools and solving real-world
 </tr>
 </table>
 
-<figure><embed src="https://wakatime.com/share/@ghost160111/1ea10e84-e3cb-402a-9e90-da3f9726ff02.svg"></embed></figure>
+<div>
+  <figure><embed src="https://wakatime.com/share/@ghost160111/1ea10e84-e3cb-402a-9e90-da3f9726ff02.svg"></embed></figure>
+</div>
 
 ### Tech stack:
 
