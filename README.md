@@ -15,6 +15,8 @@ I'm a frontend developer who is passionate building tools and solving real-world
 </tr>
 </table>
 
+<figure><embed src="https://wakatime.com/share/@ghost160111/1ea10e84-e3cb-402a-9e90-da3f9726ff02.svg"></embed></figure>
+
 ### Tech stack:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,bootstrap,tailwindcss,js,ts,nodejs,python,django,jquery,lit,vue,react,redux,vite,vitest,webpack,postman,git,github,npm,sublime,figma,vscode,visualstudio)](https://github.com/ghost160111)
@@ -29,5 +31,3 @@ I'm a frontend developer who is passionate building tools and solving real-world
 - Service Worker usage for advanced caching and access to web app offline
 - SEO Optimizations
 - Vite, Vitest, Npm, Git
-
-<figure><embed src="https://wakatime.com/share/@ghost160111/1ea10e84-e3cb-402a-9e90-da3f9726ff02.svg"></embed></figure>
