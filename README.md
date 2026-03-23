@@ -24,7 +24,7 @@ I'm a frontend developer who is passionate building tools and solving real-world
 - React (Class components + Hooks), Vue (Options API), Lit
 - MobX, Redux-toolkit, Context API, Signals, Event driven state management
 - Localization, i18next, custom localizations, accessibility
-- Backend integration, Fetch API
+- Backend integration, Fetch API, Axios, Tanstack React Query
 - Web app optimization techniques, lazy loading, image optimizations, css styles splitting, Web Worker usage for heavy computational tasks
 - Service Worker usage for advanced caching and access to web app offline
 - SEO Optimizations
