@@ -17,7 +17,7 @@ I'm a software engineer who is passionate building tools and solving real-world 
 
 ### Tech stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,nodejs,python,django,vue,react,vite,git,npm,vscode,c,cpp,cmake,dart,flutter,java)](https://github.com/ghost160111)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,nodejs,python,django,vue,react,vite,c,cpp,cmake,dart,flutter,git,npm,vscode)](https://github.com/ghost160111)
 
 - HTML5, CSS3, SCSS, Tailwind CSS
 - JavaScript, TypeScript, jQuery
