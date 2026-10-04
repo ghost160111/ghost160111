@@ -19,15 +19,8 @@ I'm a software engineer who is passionate building tools and solving real-world 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,nodejs,python,django,vue,react,vite,c,cpp,cmake,dart,flutter,vscode)](https://github.com/ghost160111)
 
-- HTML5, CSS3, SCSS, Tailwind CSS
-- JavaScript, TypeScript, jQuery
-- React (Class components + Hooks), Vue (Options API), Lit
-- MobX, Redux-toolkit, Context API, Signals, Event driven state management
-- Localization, i18next, custom localizations, accessibility
-- Backend integration, Fetch API, Axios, Tanstack React Query
-- Web app optimization techniques, lazy loading, image optimizations, css styles splitting, Web Worker usage for heavy computational tasks
-- Service Worker usage for advanced caching and access to web app offline
-- SEO Optimizations
-- Vite, Vitest, Npm, Git
+- Frontend development (HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Vue, Vite)
+- Backend development (NodeJS/Express, Python/Django, C++/Drogon)
+- Mobile development (Dart, Flutter)
 
 <figure><embed src="https://wakatime.com/share/@ghost160111/1ea10e84-e3cb-402a-9e90-da3f9726ff02.svg"></embed></figure>
