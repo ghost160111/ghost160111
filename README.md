@@ -19,7 +19,7 @@ I'm a software engineer who is passionate building tools and solving real-world 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,nodejs,python,django,vue,react,vite,c,cpp,cmake,dart,flutter,vscode)](https://github.com/ghost160111)
 
-- Frontend development (HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Vue, Vite)
+- Frontend development (HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Vue, Nuxt, Vite)
 - Backend development (NodeJS/Express, Python/Django, C++/Drogon)
 - Mobile development (Dart, Flutter)
 
