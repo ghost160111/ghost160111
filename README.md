@@ -19,8 +19,8 @@ I'm a software engineer who is passionate building tools and solving real-world 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,nodejs,python,django,vue,react,vite,c,cpp,cmake,dart,flutter,vscode)](https://github.com/ghost160111)
 
-- Frontend development (HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Vue, Nuxt, Vite)
-- Backend development (NodeJS/Express, Python/Django, C++/Drogon)
+- Frontend (HTML5, CSS3, SCSS, JavaScript, TypeScript, React, Vue, Nuxt, Vite)
+- Backend (NodeJS/Express, Python/Django, C++/Drogon)
 - Mobile development (Dart, Flutter)
 
 <figure><embed src="https://wakatime.com/share/@ghost160111/1ea10e84-e3cb-402a-9e90-da3f9726ff02.svg"></embed></figure>
